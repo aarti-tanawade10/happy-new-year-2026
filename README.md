@@ -1,4 +1,5 @@
 🎉 New Year 2026 Celebration Page
+<br>
 A minimalist and aesthetic web page to celebrate the arrival of 2026. This project features floating text animations, a dynamic color-shifting message, and a high-performance particle "glitter" effect powered by HTML5 Canvas.
 
 ✨ Features
@@ -17,8 +18,7 @@ A minimalist and aesthetic web page to celebrate the arrival of 2026. This proje
 * Download the code files: index.html, style.css, and script.js.
 * Organize them in a single folder:
 
-Plaintext
-
+* Plaintext
 /my-new-year-project
 ├── index.html
 ├── style.css
@@ -26,19 +26,18 @@ Plaintext
 Open the index.html file in your favorite web browser.
 
 📂 Code Highlights
-CSS Animations
-The project uses @keyframes to create smooth transitions:
+* CSS Animations
+* The project uses @keyframes to create smooth transitions:
+* float: Moves the year 2026 up and down.
+* colorShift: Cycles colors and adjusts the text-shadow for a glow effect.
 
-float: Moves the year 2026 up and down.
-
-colorShift: Cycles colors and adjusts the text-shadow for a glow effect.
-
-JavaScript Particle System
-The sparks are created using an Object-Oriented approach. Each "Star" is an object with its own:
-X and Y coordinates.
-Velocity (speed).
-Twinkle logic (randomizing opacity).
+JavaScript Particle System:
+* The sparks are created using an Object-Oriented approach. Each "Star" is an object with its own:
+* X and Y coordinates.
+* Velocity (speed).
+* Twinkle logic (randomizing opacity).
 
 
 🥂 Happy New Year!
 Celebrate 2026 with clean code and smooth animations.
+Live Demo: https://rainbow-macaron-68aa26.netlify.app/
