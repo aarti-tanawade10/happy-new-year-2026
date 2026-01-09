@@ -21,9 +21,13 @@ A minimalist and aesthetic web page to celebrate the arrival of 2026. This proje
 * Plaintext
   <br>
 /my-new-year-project
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 └── script.js
+<br>
 Open the index.html file in your favorite web browser.
 
 📂 Code Highlights
@@ -40,5 +44,7 @@ JavaScript Particle System:
 
 
 🥂 Happy New Year!
+<br>
 Celebrate 2026 with clean code and smooth animations.
+<br>
 Live Demo: https://rainbow-macaron-68aa26.netlify.app/
