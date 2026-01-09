@@ -19,6 +19,7 @@ A minimalist and aesthetic web page to celebrate the arrival of 2026. This proje
 * Organize them in a single folder:
 
 * Plaintext
+  <br>
 /my-new-year-project
 ├── index.html
 ├── style.css
