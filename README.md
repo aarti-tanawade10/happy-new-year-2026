@@ -4,7 +4,7 @@ A minimalist and aesthetic web page to celebrate the arrival of 2026. This proje
 
 ✨ Features
 * Floating 2026: A subtle vertical animation for the year.
-* Color-Shift Message: The "HAPPY NEW YEAR" text smoothly transitions between Red, Blue, and Green with a glowing neon effect.
+* Color-Shift Message: The "HAPPY NEW YEAR" text smoothly transitions between Cyan, Blue, and Green with a glowing neon effect.
 * Interactive Sparks: 150+ dynamically generated "sparks" that move across the screen and twinkle (glitter).
 * Responsive Design: Automatically adjusts the canvas size when the window is resized.
 
